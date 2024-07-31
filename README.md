@@ -15,3 +15,14 @@ The dashboard also evaluates which pizza sizes and categories are selling the be
 
 ![image](https://github.com/user-attachments/assets/c675f40d-a77b-41f8-acd0-f9db2922302a)
 
+## Insights
+
+* Orders are highest  on weekdays, Friday and Saturday evenings.
+* The are maximum orders in the month of July and January.
+* Classical category  contributes to maximum sales & total orders.
+* Large size pizza contributes to maximum sales.
+* Thai Chicken pizza contributes to maximum revenue.
+* Classical Deluxe  contributes to maximum for both total quantities and sales total orders.
+* The Brie Carre contributes to minimum revenue, total quantities, and sales total orders.
+
+
